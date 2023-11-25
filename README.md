@@ -1,4 +1,4 @@
-# Projeto TikT0k (Para Treinamento de React Native)
+# Projeto TikT0k (React Native)
 
 Projeto criado para aprendizado sobre react native, utilizando expo.
 
